@@ -19,7 +19,7 @@ You can watch the programe demo here[Software Demo Video](http://youtube.link.go
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 
 - Updating my development enviroment
 - Putting more comments on my codes
