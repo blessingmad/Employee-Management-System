@@ -1,32 +1,26 @@
 # Overview
+This is my demostration csharp language used to develop a programe. l created it using to demostrate the intagration of Visual Studio Code, csharp and Github.
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+You can watch the programe demo here[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Csharp(C#)
+* Git/Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Github](https://github.com/)
+* [Csharp](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Updating my development enviroment
+- Putting more comments on my codes
+- Improving my software capabilities
