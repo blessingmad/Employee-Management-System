@@ -9,7 +9,7 @@ static void AddEmployee(list<Employee> employees)
 {
     Console.WriteLine("---------------------------------------------")
     Console.WriteLine();
-
+    //dispaly date
     DateTime theCurrentDateTime = DateTime.Now;
     string dateText = theCurrentDateTime.ToLongDateString();
     Console WriteLine($"{dateText}");
