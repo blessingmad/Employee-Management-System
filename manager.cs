@@ -1,3 +1,5 @@
+//Derived class Manager, inheriting from Employee
+
 public class Manager : Employee
 {
     private string _location;

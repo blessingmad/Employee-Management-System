@@ -18,17 +18,8 @@ static void AddEmployee(list<Employee> employees)
     Console.WriteLine("This program displays details for employees")
 
 
-    //Console.WriteLine("Enter Employee Details:");
-    //Console.Write("ID:");
-   // int id = int.Parse(Console.ReadLine());
-    //Console.Write("Name:");
-    //string name = Console.Readline();
-    //Console.Write("Department:");
-    //string department = Console.ReadLine();
-    //Console.Write("Salary:");
-    //double salary = double.Parse(Console.ReadLine());
-
     //create a black line
+    //Write to the terminal
     Console.WriteLine();
     Console.WriteLine("1. Manager");
     Console.WriteLine("2. Senior Employee");
@@ -40,7 +31,7 @@ static void AddEmployee(list<Employee> employees)
     string answer = Console.ReadLine();
     int numeber = int.Parse(answer);
     string results = "";
-
+    //Loop for conditions to be displayed when then user makes a choice.
     if (number == 1)
     { 
         results = "Display the Manager Info:"
@@ -56,6 +47,7 @@ static void AddEmployee(list<Employee> employees)
     }
     else
     {
+        //returns invalid if the user enters unsupported entries.
         results = "invalid entry";
     }
     Console.WriteLine($"{results}");
