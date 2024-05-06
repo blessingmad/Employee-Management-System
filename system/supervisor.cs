@@ -4,9 +4,13 @@ public class Supervisor : Employee
     //unique variable for the subclass suspervisor
     private string _project;
 
-    public Employee(string record, string role, string summary, string location) : base (record, role, summary) 
+    public Supervisor(string record, string role, string project) : base (record, role) 
     {
         _project = project;
+    }
+       public string GetProject()
+    {
+        return _project;
     }
     public override string GetInfo()
     {

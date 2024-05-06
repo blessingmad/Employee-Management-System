@@ -4,10 +4,16 @@ public class Manager : Employee
 {
     private string _location;
 
-    public Employee(string record, string role, string summary, string location) : base (record, role, summary) 
+    public Manager(string record, string role,  string location) : base (record, role) 
     {
         _location = location;
     }
+    public string GetLocation()
+
+      {
+        return _location;
+    }
+
     public override string GetInfo()
     {
         return _location;

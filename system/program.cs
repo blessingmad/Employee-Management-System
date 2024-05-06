@@ -1,21 +1,21 @@
 using System;
 
-class program
+class Program
 {  
 // Add employees function
-static void AddEmployee(list<Employee> employees)
+static void AddEmployee(List<Employee> employees)
 
 
 {
-    Console.WriteLine("---------------------------------------------")
+    Console.WriteLine("---------------------------------------------");
     Console.WriteLine();
     //dispaly date
     DateTime theCurrentDateTime = DateTime.Now;
     string dateText = theCurrentDateTime.ToLongDateString();
-    Console WriteLine($"{dateText}");
-    Console.WriteLine("-------------------------------------------------")
+    Console.WriteLine($"{dateText}");
+    Console.WriteLine("-------------------------------------------------");
 
-    Console.WriteLine("This program displays details for employees")
+    Console.WriteLine("This program displays details for employees");
 
 
     //create a black line
@@ -25,20 +25,20 @@ static void AddEmployee(list<Employee> employees)
     Console.WriteLine("2. Senior Employee");
     Console.WriteLine("3. Supervisor");
 
-    Console.WriteLine("Which Employee do you want to view?")
+    Console.WriteLine("Which Employee do you want to view?");
     Console.WriteLine();
 
     string answer = Console.ReadLine();
-    int numeber = int.Parse(answer);
+    int number = int.Parse(answer);
     string results = "";
     //Loop for conditions to be displayed when then user makes a choice.
     if (number == 1)
     { 
-        results = "Display the Manager Info:"
+        results = "Display the Manager Info:";
     }
     else if (number == 2)
     {
-        results = "Display the Senior Employee Info:"
+        results = "Display the Senior Employee Info:";
     }
     else if (number == 3) 
     {
@@ -53,22 +53,23 @@ static void AddEmployee(list<Employee> employees)
     Console.WriteLine($"{results}");
     Console.WriteLine();
 
-    List<Employees> employees = new List<Employees>();
+    //List<Employees> employees = new List<Employees>();
 
-    Manager e1 = new Manager ("Josh Dwawa");
+    Manager e1 = new Manager ("Josh Dwawa","Motivates", "Location");
     employees.Add(e1);
 
-    Senior e2 = new Senior ("Tapiwa Sithole");
-    employees.Add(e1);
+    Senior e2 = new Senior ("Tapiwa Sithole", "Analyse", "Summary");
+    employees.Add(e2);
 
-    Supervisor e3 = new Supervisor ("Miho Mulatto");
+    Supervisor e3 = new Supervisor ("Miho Mulatto", "Monitor", "Project1");
+    employees.Add(e3);
 
 
     foreach (Employee e in employees)
     {
         string record = e.GetRecord();
         string role = e.GetRole();
-        string summary = e.GetSummary();
+        string summary = e.GetInfo();
 
         Console.WriteLine($"{record} {role} {summary}");
     }

@@ -10,15 +10,15 @@ public abstract class Employee
 
   private string _role;
 
-  private string _summary;
+ 
 // Constructor
-  public Studies (string record, string role, string summary)
+  public Employee(string record, string role)
   {
     // Common attributes to be shared accross the programe
     
     _record = record;
     _role = role;
-    _summary = summary;
+   
   }
   //get entiries from the user.
   public string GetRecord()
@@ -29,10 +29,7 @@ public abstract class Employee
   {
     return _role;
   }
-  public string()
-  {
-    return _summary;
-  }
+ 
   public abstract string GetInfo();
 
 }

@@ -5,8 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "C#: <employment-management-system> Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><employee-management-system>.csproj"
+        },
+        {
             "args": [
-                "--extensionDevelopmentPath=${workspaceFolder}"
+                "--extensionDevelopmentPath=${workspaceFolder}/system"
             ],
             "name": "Launch Extension",
             "outFiles": [

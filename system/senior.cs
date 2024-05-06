@@ -4,9 +4,13 @@ public class Senior : Employee
     //unique attribute for the senior employee class
     private string _salary;
 
-    public Employee(string record, string role, string summary, string salary) : base (record, role, summary) 
+    public Senior(string record, string role,string salary) : base (record, role) 
     {
         _salary = salary;
+    }
+       public string GetSalary()
+    {
+        return _salary;
     }
     public override string GetInfo()
     {
