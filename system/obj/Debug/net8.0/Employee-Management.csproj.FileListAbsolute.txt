@@ -1,0 +1,15 @@
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\bin\Debug\net8.0\Employee-Management.exe
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\bin\Debug\net8.0\Employee-Management.deps.json
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\bin\Debug\net8.0\Employee-Management.runtimeconfig.json
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\bin\Debug\net8.0\Employee-Management.dll
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\bin\Debug\net8.0\Employee-Management.pdb
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.AssemblyInfoInputs.cache
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.AssemblyInfo.cs
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.csproj.CoreCompileInputs.cache
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.sourcelink.json
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.dll
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\refint\Employee-Management.dll
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.pdb
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\Employee-Management.genruntimeconfig.cache
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System\system\obj\Debug\net8.0\ref\Employee-Management.dll
