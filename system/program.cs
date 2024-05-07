@@ -1,17 +1,7 @@
 using System;
 
 class Program
-{ 
-    /// <summary>
-/// Main entry point for the program
-/// </summary>
-/// <param name="args"></param>
-static void Main(string[] args)
-{
-List<Employee> employees = new List<Employee>();
-AddEmployee(employees);
-
-} 
+{  
 // Add employees function
 static void AddEmployee(List<Employee> employees)
 
