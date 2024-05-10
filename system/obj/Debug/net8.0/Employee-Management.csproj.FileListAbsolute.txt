@@ -21,3 +21,11 @@ C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-
 C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-1\system\obj\Debug\net8.0\Employee-Management.dll
 C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-1\system\obj\Debug\net8.0\refint\Employee-Management.dll
 C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-1\system\obj\Debug\net8.0\Employee-Management.pdb
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.AssemblyInfoInputs.cache
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.AssemblyInfo.cs
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.csproj.CoreCompileInputs.cache
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.sourcelink.json
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.dll
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\refint\Employee-Management.dll
+C:\Users\BLESSING\Downloads\Employee-Management-System-main\Employee-Management-System-2\system\obj\Debug\net8.0\Employee-Management.pdb

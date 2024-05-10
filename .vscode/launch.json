@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "C#: <employee-management-system> Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><employee-management-systems>.csproj"
+        },
+        {
             "name": "C#: <employment-management-system> Debug",
             "type": "dotnet",
             "request": "launch",

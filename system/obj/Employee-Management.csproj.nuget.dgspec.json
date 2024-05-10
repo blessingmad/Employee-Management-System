@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-1\\system\\Employee-Management.csproj": {}
+    "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-2\\system\\Employee-Management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-1\\system\\Employee-Management.csproj": {
+    "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-2\\system\\Employee-Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-1\\system\\Employee-Management.csproj",
+        "projectUniqueName": "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-2\\system\\Employee-Management.csproj",
         "projectName": "Employee-Management",
-        "projectPath": "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-1\\system\\Employee-Management.csproj",
+        "projectPath": "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-2\\system\\Employee-Management.csproj",
         "packagesPath": "C:\\Users\\BLESSING\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-1\\system\\obj\\",
+        "outputPath": "C:\\Users\\BLESSING\\Downloads\\Employee-Management-System-main\\Employee-Management-System-2\\system\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BLESSING\\AppData\\Roaming\\NuGet\\NuGet.Config"
